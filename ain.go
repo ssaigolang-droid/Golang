@@ -1,5 +1,9 @@
 package main
 
-func sol(){
-	
+import "fmt"
+
+func sol() {
+
+	fmt.Println("inside ain.go")
+
 }
